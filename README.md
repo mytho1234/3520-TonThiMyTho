@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 3520_Tôn Thị Mỹ Tho</h1>
 <h3 align="center">A Devoloper from Hutech University class 20DTHC1</h3>
 
-![z5361065223726_fb54c38babeec72cf2ce7754b6d54ca9](https://github.com/longduc12300/1472-LyLongDuc/assets/127508928/59b5372a-ee0e-4fcd-b571-de295431d2a0)
+![z5361078946132_b24ce205887a64b0541739d7852c9f7c](https://github.com/mytho1234/3520-TonThiMyTho/assets/93826111/e70bcc9d-854a-4929-ad1f-30f17bac4d68)
 
 
 <h3 align="left">Connect with me:</h3>
